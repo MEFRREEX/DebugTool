@@ -9,7 +9,7 @@ Just use the debug tool on the block.
 
 # Commands:
 ```
-/debugtool - Get an info tool
+/debugtool - Get an debug tool
 /debugtool about - About the plugin
 /debugtool help - Help
 ```
