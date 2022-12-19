@@ -1,0 +1,14 @@
+tool:
+  name: "§r§aDebug Tool"
+  id: "280:0" # Stick
+  # Delay for using the tool.
+  # In ticks. 20 ticks = 1 sec.
+  delay: 5
+
+updated: "§aBlock updated."
+
+messages:
+  received: "§aYou have successfully got the debug tool!"
+  permission: "§cYou don't have permission to use this!"
+  ingame: "§cUse this command only in the game."
+  command-not-found: "§cSub command not found."
