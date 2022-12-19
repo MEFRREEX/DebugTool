@@ -49,7 +49,7 @@ public class DebugToolCommand extends Command {
                 case "about":
                 case "info":
                     if (player.hasPermission("debugtool.about")) {
-                        sender.sendMessage("§aUse the information tool on blocks or entities to get more information about them.\n\n§fThis plugin was written for free distribution and can be downloaded at §7https://cloudburstmc.org/resources/info-tool.862/.\n§fDeveloper: MEFRREEXX");
+                        sender.sendMessage("§aUse the information tool on blocks or entities to get more information about them.\n\n§fThis plugin was written for free distribution and can be downloaded at §7https://cloudburstmc.org/resources/debugtool-pnx.870/.\n§fDeveloper: MEFRREEXX");
                     } else {
                         player.sendMessage(config.getString("messages.permission"));
                     }
